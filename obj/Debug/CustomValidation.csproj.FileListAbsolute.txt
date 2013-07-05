@@ -1,0 +1,14 @@
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\bin\Debug\CustomValidation.dll
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\bin\Debug\CustomValidation.pdb
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\obj\Debug\CustomValidation.ValidationSummaryForm.resources
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\obj\Debug\CustomValidation.csproj.GenerateResource.Cache
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\obj\Debug\CustomValidation.dll
+C:\Documents and Settings\CSN\My Documents\MSDN\winforms05182004_sample\winforms05182004 - Validation Part 3\Sample\winforms05182004_CustomValidation\CustomValidation\obj\Debug\CustomValidation.pdb
+D:\my\winform\CustomValidation\obj\Debug\CustomValidation.ValidationSummaryForm.resources
+D:\my\winform\CustomValidation\obj\Debug\CustomValidation.csproj.GenerateResource.Cache
+D:\my\winform\CustomValidation\obj\Debug\CustomValidation.dll
+D:\my\winform\CustomValidation\bin\Debug\CustomValidation.dll
+D:\my\winform\CustomValidation\bin\Debug\CustomValidation.pdb
+D:\my\winform\CustomValidation\obj\Debug\CustomValidation.pdb
+D:\my\winform\CustomValidation\obj\Debug\CustomValidation.csprojResolveAssemblyReference.cache

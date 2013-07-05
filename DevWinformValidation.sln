@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevWinformValidation", "DevWinformValidation.csproj", "{637D0C98-311F-4E90-8D2B-8A98489098A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevWinformValidationTest", "CustomValidationTest\CustomValidationTest\DevWinformValidationTest.csproj", "{D2684776-B823-433A-9DF9-AB24DD95F1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637D0C98-311F-4E90-8D2B-8A98489098A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637D0C98-311F-4E90-8D2B-8A98489098A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637D0C98-311F-4E90-8D2B-8A98489098A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637D0C98-311F-4E90-8D2B-8A98489098A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2684776-B823-433A-9DF9-AB24DD95F1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2684776-B823-433A-9DF9-AB24DD95F1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2684776-B823-433A-9DF9-AB24DD95F1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2684776-B823-433A-9DF9-AB24DD95F1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

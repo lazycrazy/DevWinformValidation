@@ -1,0 +1,5 @@
+D:\my\winform\CustomValidation\obj\Release\DevWinformValidation.ValidationSummaryForm.resources
+D:\my\winform\CustomValidation\obj\Release\DevWinformValidation.csproj.GenerateResource.Cache
+D:\my\winform\CustomValidation\obj\Release\DevWinformValidation.dll
+D:\my\winform\CustomValidation\DevWinformValidation.dll
+D:\my\winform\CustomValidation\obj\Release\DevWinformValidation.csprojResolveAssemblyReference.cache

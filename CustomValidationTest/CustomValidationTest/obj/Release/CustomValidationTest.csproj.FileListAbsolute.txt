@@ -1,0 +1,12 @@
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\bin\Release\CustomValidationTest.exe.config
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.Form1.resources
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.Properties.Resources.resources
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.XtraForm1.resources
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.csproj.GenerateResource.Cache
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.exe.licenses
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\bin\Release\CustomValidationTest.exe
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\bin\Release\CustomValidationTest.pdb
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\bin\Release\CustomValidation.dll
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.csprojResolveAssemblyReference.cache
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.exe
+D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\obj\Release\CustomValidationTest.pdb
