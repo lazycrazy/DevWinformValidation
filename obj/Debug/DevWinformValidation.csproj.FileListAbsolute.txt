@@ -1,7 +1,0 @@
-D:\my\winform\CustomValidation\obj\Debug\DevWinformValidation.csproj.GenerateResource.Cache
-D:\my\winform\CustomValidation\bin\Debug\DevWinformValidation.dll
-D:\my\winform\CustomValidation\bin\Debug\DevWinformValidation.pdb
-D:\my\winform\CustomValidation\obj\Debug\DevWinformValidation.dll
-D:\my\winform\CustomValidation\obj\Debug\DevWinformValidation.pdb
-D:\my\winform\CustomValidation\obj\Debug\DevWinformValidation.ValidationSummaryForm.resources
-D:\my\winform\CustomValidation\obj\Debug\DevWinformValidation.csprojResolveAssemblyReference.cache
