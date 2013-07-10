@@ -1,1 +1,0 @@
-D:\my\winform\CustomValidation\CustomValidationTest\CustomValidationTest\bin\Release\DevWinformValidationTest.exe.config
